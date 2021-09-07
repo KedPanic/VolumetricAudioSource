@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Volumetric Audio Source",
+	"Description": "",
+	"Category": "Audio",
+	"CreatedBy": "Cedric Liaudet",
+	"CreatedByURL": "https://github.com/SuperNeon/VolumetricAudioSource",
+	"DocsURL": "https://github.com/SuperNeon/VolumetricAudioSource/blob/main/README.md",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VolumetricAudioSource",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
